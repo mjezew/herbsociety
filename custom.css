@@ -1,0 +1,47 @@
+nav{
+	margin-top:50px;
+	background:transparent;
+	border:transparent;
+}
+
+.navbar-brand {
+	padding-top: 50px;
+  	padding: 0px;
+}
+
+.navbar-brand>img {
+  height: 300%;
+  padding: 15px;
+  width: auto;
+}
+
+.brand-centered {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.brand-centered .navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.mainpage-img{
+  margin-top:50px;
+  width: 100%;
+
+}
+
+.mainpage-container{
+	margin-top:50px;
+
+}
+
+.mainpage-welcome{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:55px;
+
+}
